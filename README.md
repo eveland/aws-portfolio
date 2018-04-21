@@ -5,4 +5,5 @@ Technologies used:
 AWS
 HTML
 CSS
+aws-commandline
 
